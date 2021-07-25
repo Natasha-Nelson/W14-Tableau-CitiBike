@@ -1,0 +1,14 @@
+What questions would you want answered if you were opening a bike-sharing business? Write the questions down.
+
+1. How many bikes do you need?
+	a. What is the max number of bikes being used at one time?
+	b. Is there any seasonality to bike usage (eg. more in the summer, less in the winter)?
+	c. How does the number of bikes relate to overall city population size? 
+2. Where should bikes be placed? 
+	a. Are bikes being used more frequently at one location than another?
+	b. Is there any relationship between usage and population density at a particular location?
+	c. Are ther any external factors that need to be considered (geographical features, tourist attractions, roadways)?
+3. How much money does each bike make? 
+	a. Do some bikes make more money than others?
+	b. Is there a point where adding more bikes doesn't increase revenue (eg. saturation point)?
+4. How much money does it take to maintain each bike?
